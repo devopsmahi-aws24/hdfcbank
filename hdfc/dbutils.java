@@ -4,3 +4,4 @@ this is my merge integration
 this is stash
 git pull
 git pull and fetch
+git git
